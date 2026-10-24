@@ -1,0 +1,39 @@
+{
+  "table": [
+    {
+      "forecast": "model",
+      "rmse": 0.2793,
+      "mae": 0.2165,
+      "direction_accuracy": 0.618
+    },
+    {
+      "forecast": "naive: zero growth",
+      "rmse": 0.2894,
+      "mae": 0.2264,
+      "direction_accuracy": NaN
+    },
+    {
+      "forecast": "naive: repeat last year's growth",
+      "rmse": 0.3213,
+      "mae": 0.252,
+      "direction_accuracy": 0.631
+    },
+    {
+      "forecast": "naive: 3-year average growth",
+      "rmse": 0.2857,
+      "mae": 0.2225,
+      "direction_accuracy": 0.616
+    },
+    {
+      "forecast": "naive: whole-market growth",
+      "rmse": 0.3646,
+      "mae": 0.2972,
+      "direction_accuracy": 0.503
+    }
+  ],
+  "rank_correlation_mean": 0.406,
+  "top_minus_bottom_quintile_growth": 0.323,
+  "n_test_periods": 5,
+  "model_beats_best_naive_rmse": true,
+  "rmse_improvement_vs_best_naive_pct": 2.2
+}

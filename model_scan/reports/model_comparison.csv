@@ -1,0 +1,5 @@
+model,cv_RMSE,best_params,seconds,selected
+ridge,0.239,"{""alpha"": 10.0}",0.6,False
+random_forest,0.2246,"{""max_depth"": 12, ""min_samples_leaf"": 3}",20.0,True
+hist_gradient_boosting,0.2271,"{""learning_rate"": 0.05, ""max_depth"": 5}",5.2,False
+baseline (dummy),0.2582,{},0.0,False

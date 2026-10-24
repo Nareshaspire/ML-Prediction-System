@@ -1,0 +1,14 @@
+rank,series_id,flow,hs2,industry,sector,critical_mineral,period,trailing_value_usd,last_year_growth,predicted_growth,predicted_value_usd,predicted_change_pct,backtest_mae,backtest_obs,signal,reliability,last_move_zscore,unusual_move,critical_mineral_note
+43,M_28,imports,28,Inorganic chemicals,Chemicals,1,2024,1536865127.0,0.2455,0.0835,1670837117.0,8.7,0.1965,5,0.43,above average,0.39,False,"lithium, rare-earth and cobalt compounds; high-purity silicon"
+140,M_26,imports,26,"Ores, slag and ash",Mineral products,1,2024,689887525.0,-0.1099,-0.1291,606217708.0,-12.1,0.2787,5,-0.46,below average,-0.88,False,"ores and concentrates: cobalt, manganese, chromium, tungsten, niobium, tantalum, titanium, zirconium"
+75,M_80,imports,80,Tin,Base metals,1,2024,606105869.0,0.0744,0.0388,630151527.0,4.0,0.1786,5,0.22,above average,0.14,False,tin
+65,X_79,exports,79,Zinc,Base metals,1,2024,543811765.0,0.0439,0.0556,574973706.0,5.7,0.1929,5,0.29,above average,-0.21,False,zinc
+100,X_81,exports,81,"Other base metals (cobalt, tungsten, titanium...)",Base metals,1,2024,62608452.0,0.2387,0.0263,64305264.0,2.7,0.3158,5,0.08,below average,0.5,False,"cobalt, tungsten, titanium, magnesium, antimony, germanium, gallium, vanadium, niobium"
+89,M_25,imports,25,"Salt, sulphur, stone, cement",Mineral products,1,2024,47425523.0,0.0966,0.022,48500268.0,2.3,0.161,5,0.14,above average,-0.22,False,"graphite, fluorspar, quartz/silica, magnesium compounds"
+9,M_79,imports,79,Zinc,Base metals,1,2024,15647373.0,0.7835,0.2661,20721647.0,32.4,0.2828,5,0.94,below average,3.67,True,zinc
+14,M_74,imports,74,Copper,Base metals,1,2024,10218934.0,0.1628,0.0892,11265959.0,10.2,0.1185,5,0.75,above average,0.58,False,copper
+107,X_26,exports,26,"Ores, slag and ash",Mineral products,1,2024,10077218.0,-0.0917,-0.0002,10074656.0,-0.0,0.0988,5,-0.0,above average,-1.85,False,"ores and concentrates: cobalt, manganese, chromium, tungsten, niobium, tantalum, titanium, zirconium"
+48,X_74,exports,74,Copper,Base metals,1,2024,4150179.0,0.2279,0.0714,4531573.0,9.2,0.1837,5,0.39,above average,0.78,False,copper
+29,X_75,exports,75,Nickel,Base metals,1,2024,2371247.0,0.2213,0.0973,2715646.0,14.5,0.1737,5,0.56,above average,1.06,False,nickel
+122,M_81,imports,81,"Other base metals (cobalt, tungsten, titanium...)",Base metals,1,2024,1358533.0,-0.1132,-0.0278,1293902.0,-4.8,0.1261,5,-0.22,above average,-0.26,False,"cobalt, tungsten, titanium, magnesium, antimony, germanium, gallium, vanadium, niobium"
+47,X_28,exports,28,Inorganic chemicals,Chemicals,1,2024,1181347.0,0.0703,0.0878,1381544.0,16.9,0.2231,5,0.39,below average,0.5,False,"lithium, rare-earth and cobalt compounds; high-purity silicon"
